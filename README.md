@@ -13,7 +13,7 @@ Save the new image and place it in the **same folder** as "Output.png" (this is 
 Press 3 to create the Character Array, specify the name of the input file.
 ALCCC will create a text file named the same as the input file, this is your character array.
 
-Example:
+**Example:**
 
   byte char0[8] = {B00000,B01110,B10001,B10001,B00010,B00100,B00000,B00100,}
   
