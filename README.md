@@ -2,7 +2,7 @@
 An app to help create custom characters for the **LiquidCrystal.h arduino library**.
 Instructions:
 
-##Step One\n
+##Step One
 To create custom characters using ALCCC, you must first create a **template**,
 Press 2 to create a template, and specify the number of characters.
 The template will be exported under the name **"Output.png"**, open it in your favorite photo editing software (if you dont have one you can use- https://www.piskelapp.com/).
