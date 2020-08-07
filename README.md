@@ -16,7 +16,9 @@ ALCCC will create a text file named the same as the input file, this is your cha
 Example:
 
   byte char0[8] = {B00000,B01110,B10001,B10001,B00010,B00100,B00000,B00100,}
+  
   byte char1[8] = {B00000,B00100,B00100,B00100,B00100,B00100,B00000,B00100,}
+  
   byte char2[8] = {B00000,B00000,B01110,B10001,B10101,B10111,B10000,B01110,}
 
 
