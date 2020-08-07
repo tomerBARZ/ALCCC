@@ -6,7 +6,7 @@ To create custom characters using ALCCC, you must first create a **template**,
 Press 2 to create a template, and specify the number of characters.
 The template will be exported under the name **"Output.png"**, open it in your favorite photo editing software (if you dont have one you can use- https://www.piskelapp.com/).
   this is an example for a 3 character template ![Example Template](/pics/Output.png).  
-Draw your desired characters in the **brighter** parts of the image.
+Draw your desired characters (black colored) in the **brighter** parts of the image.
 Save the new image and place it in the **same folder** as "Output.png" (this is your **input** file).  
 ![Example ETemplate](/pics/Input.png)
 
