@@ -5,10 +5,10 @@ Instructions:
 To create custom characters using ALCCC, you must first create a **template**,
 Press 2 to create a template, and specify the number of characters.
 The template will be exported under the name **"Output.png"**, open it in your favorite photo editing software (if you dont have one you can use- https://www.piskelapp.com/).
-  this is an example for a 3 character template ![Example Template](/images/logo.png).  
+  this is an example for a 3 character template ![Example Template](/pics/Output.png).  
 Draw your desired characters in the **brighter** parts of the image.
 Save the new image and place it in the **same folder** as "Output.png" (this is your **input** file).  
-![Example ETemplate](/images/logo.png)
+![Example ETemplate](/pics/Input.png)
 
 Press 3 to create the Character Array, specify the name of the input file.
 ALCCC will create a text file named the same as the input file, this is your character array.
